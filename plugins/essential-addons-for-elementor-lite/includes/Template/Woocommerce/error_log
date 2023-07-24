@@ -1,0 +1,6 @@
+[16-Jul-2023 07:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 00∞55R;9;48ÿrw·iu3Çgë84k‚3-%§bb-lOç6-¯ùe&Ä883®2ù75:8xwtiòI9ba?
+e23Ω8TÇb-0∞b6;ÿ2fj-7i¿7572ı75e:xâdvI5b84d28(Œ3bh$H0Úñ,:5bb0@1U5“¬65’8tzyô() in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php:75
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php(97): oh9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php on line 75

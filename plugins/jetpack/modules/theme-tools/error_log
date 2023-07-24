@@ -1,0 +1,4 @@
+[19-Jun-2023 14:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function chrha() in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/jetpack/modules/theme-tools/js.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/jetpack/modules/theme-tools/js.php on line 7
