@@ -1,4 +1,0 @@
-[25-Jun-2023 19:59:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cell() in /home/nhvntjnj/vnta.com.vn/wp-includes/css/dist/edit-post/dxktlyyr.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/nhvntjnj/vnta.com.vn/wp-includes/css/dist/edit-post/dxktlyyr.php on line 7
