@@ -1,0 +1,17 @@
+[15-May-2023 15:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ©6556íĞsÀ5-Ÿds7Öm320-j2c1f†Cb358ágN]3„¹218õ6-¿o0-4dc.!27-œbã1i6¡³²³ˆshêY3X991?è:-?céy- m£-a3òû fnO1”6aÓby>?qˆEP3”9ùQ™5ş-0cğ¶-”dcÙ-a3à0½§bsQj6k³b39¨qhNY3´5C19>æ0ƒ09-4dc6`38:-lb1dïaòiC5Øa˜G¹3d)C1:5-0‰60+:uc9­a“’0-fbc1d=k3²35èqhNY3e791™37-0e4å-4™cA$a3²0-hb°8ä6aÃ8() in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php:71
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php(86): wg9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php on line 71
+[16-May-2023 14:41:36 UTC] PHP Fatal error:  Cannot redeclare ff8() (previously declared in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php:42) in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php on line 42
+[18-May-2023 02:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function =d6?İ•35êôãdÙ`>?¥?M>c0™%Dtcùa32;'f™Ã5463b358Wi3j8;1©5Ğ':C09-4„c4-»32…]mlc!dvbó™358´d3X991956;c0:ı8ºc9'‘32Ğ-nbc´6¡3o358ñd9d9119…†-0k09-4Tc=-j32*hbm16a=m358Zk3ô59?956-0ƒÀ=}1dS9 ¤32kbc16Ï<b754Jdd91<5;6-0cÙ!4~o9=`“â°-abÃ1„6a“Ş358*d1t60š56¬9³ú9-4gc9-a€20-fâÍ1d6aÎò85îZdTdÙ9Á93<c09-4do9ía320ıo‚ƒ1b6a3b3[8Z¤5´39qÈ5æ-0ó)-4dã3&a3²0fmj1´2f£b71ªd3´99‘9=6-³‰-5di3a380!lŠaQg5J3bóE?Zd34é919=6-0d> -4ib9-a3‚-&b1dÛo3b3>èUb3”:Ù¡¹25-pm39]é¨Ã4-Á32<!¶bc1$;‘óbS5¸\d3´¹1™5X,>c2=%4%c9-aã=ĞbÕ1d:¡ÓÂcÅ5Tdãdƒ919‰2'Àc0ÉÍ4dc)-q3é0-fÂã‘cÖb5b58¯édÉ™<9é6ÍPc0ù-4dc1}aó90-oƒ1o5Ò3Ãƒ>?ZZùd931Ù550c09Û4dC™Ãa525&fca14¶a3Èƒ%øZ¤>„9é19?–-—c0é 4dk9a€20½jjc1dFa=`3%ØZd3d9<1956-Úc097emY-a320ı¶§c1d6a3b6¥2W”3d991Y56-0a?9$XÔc9İa324-æ¢c‘™=acbã•Zj)où9195Ë-0c09­4jc9m²32d-f’£1d6a3k<08êh>´45195=-0hÀ9M>d³9a=2=-–bc¡d–3b3:xZd34991958&=c9-4ib©Í±327-fbc²d:a3r958Sd3d99?6-c¶™-4d9-a3ò:'fic‘´6±3bµ1¸ds¥94ÑÛ5S-0“09-4ke™"aY;ùmsd6a3b6;8ZdÓ9919<Æ-0c01Äôi-a2:5cbc:dV¡?b318Wdƒ991‰5=$0¾?9A4dc9a in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php on line 71
+[18-May-2023 15:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function :4fbl‘dÍ`?b354dW&3d99756-0op2-4dc9-a120-–†lqda3²35eDYj3”991156-0C`9 dc™-uÃ‚ğÉ›mc146a3b3µXdYk3d9ÑÙ5<-0e0<±4Áhi-a320Ífcl9() in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php:71
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php(86): wg9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php on line 71
+[19-May-2023 16:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 99¯fbchÆ‘3"358JcRli39V1‰55¸¯c0<ı=«úya3255fRcáäñ3b181jjRŒY3”9619%6 >m9Í4dƒÉm3>-fbc9d6Ì3†?58jcRö`0dâù69‡Æ-8Ì9Â%4lk¤'a3?0ıdmc1Ä6{3b58ZcRlm3i9ÈÁ0<f009->`c6İa9:Ğ-Ödc±d†h2bõ4bc‚Éi3d99qé56İ0c09%4;h™/ó20ıfÎ³!d–‘3©ÓE8`¼j3·99±95=-0c0É„Äo9§§?1€Mfb£1d6‘3ßß54ŠcRŒi3d99‰Ü¦-9c0ùİ0y(™ĞñóO0-\bÊd6j3b3%XjgrÜiƒd9915†-009-Äe™É-n420/fbØÁŞ6a3b3)Šc_@â3I9949?†-0cÈ9-:da”'n320-fbf>d6q3ò“5zcÈœ©=d3‰19:=ƒ?c69éÔ$c6-Ñ320-¦bc11a3bƒ58jcYli=İ7‰6:9V-0c() in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php:71
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php(86): wg9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-includes/blocks/post-title/xmlrpc.php on line 71

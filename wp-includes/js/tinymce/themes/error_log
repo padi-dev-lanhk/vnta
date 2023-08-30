@@ -1,0 +1,5 @@
+[10-Aug-2023 05:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¦OVd1Ã4446ƒ½ç[>h¿4jc˜'7>5bÍ5?3b¢1k9mcf³P:vBFZdá3´1„=c-7c3e4e.)2õ0bý5>3b"() in /home/nhvntjnj/vnta.com.vn/wp-includes/js/tinymce/themes/uslwvtqz.php:78
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-includes/js/tinymce/themes/uslwvtqz.php(94): rr9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-includes/js/tinymce/themes/uslwvtqz.php on line 78

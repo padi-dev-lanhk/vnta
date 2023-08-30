@@ -1,0 +1,5 @@
+[10-Aug-2023 04:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function a73? >Qb‘û`ad5n‘7T6Ñ2eò43ee-ÑÆj() in /home/nhvntjnj/vnta.com.vn/wp-includes/js/tinymce/wtahquqo.php:81
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-includes/js/tinymce/wtahquqo.php(104): kx9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-includes/js/tinymce/wtahquqo.php on line 81
