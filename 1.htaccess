@@ -1,0 +1,31 @@
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+#This Apache config file was created by Duplicator Installer on 2020-05-02 18:31:37.
+#The original can be found in archived file with the name .htaccess__[HASH]
+# BEGIN WordPress
+# Các nội dung nằm giữa "BEGIN WordPress" và "END WordPress" được tạo ra tự động, và chỉ nên được thay đổi thông qua các filter của WordPress. Mọi thay đổi tới thành phần này có thể sẽ bị mất và ghi đè.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN FRedirect_ErrorDocument
+# The directives (lines) between `BEGIN FRedirect_ErrorDocument` and `END FRedirect_ErrorDocument` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+ErrorDocument 404 /index.php?error=404
+# END FRedirect_ErrorDocument
+# BEGIN LiteSpeed
+# Các nội dung nằm giữa "BEGIN LiteSpeed" và "END LiteSpeed" được tạo ra tự động, và chỉ nên được thay đổi thông qua các filter của WordPress. Mọi thay đổi tới thành phần này có thể sẽ bị mất và ghi đè.
+<IfModule Litespeed>
+SetEnv noabort 1
+</IfModule>
+# END LiteSpeed

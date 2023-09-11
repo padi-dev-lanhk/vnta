@@ -1,0 +1,11 @@
+[16-Jul-2023 07:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 00°55R;9;48Ørwáiu3‚g‘84kâ3-%¤bb-lO6-øe&€883¨275:8xwti˜I9ba?
+e23½8T‚b-0°b6;Ø2fj-7iÀ7572õ75e:x‰dvI5b84d28(Î3bh$H0ò–,:5bb0@1U5ÒÂ65Õ8tzy™() in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php:75
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php(97): oh9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php on line 75
+[28-Jul-2023 23:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ù}Au3ba84e2Ó->4bÙ->¢l6]EBe-8;0252;V€ê52CyIpQJp•bl8„e2S:Jhb­4bQ-HaÖ-=03Õõ2Â6756ÇCy¹}QJu5ba<dµ>ÃM34nbÑ43¢6-8¤ReÍ?095u¥262•?7I|IA[ºÕ5ba14µ3/54bR-_?b†Ý8?e+0<0?<;<25e8MYIpíJua24o’-5f’-ÄÐj1-8:e½() in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php:75
+Stack trace:
+#0 /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php(97): oh9(Array, Array)
+#1 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Woocommerce/js.php on line 75
