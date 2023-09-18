@@ -10,3 +10,11 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/nhvntjnj/vnta.com.vn/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 04:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nhvntjnj/vnta.com.vn/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 04:00:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/nhvntjnj/vnta.com.vn/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nhvntjnj/vnta.com.vn/wp-admin/includes/admin.php on line 16
